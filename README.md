@@ -28,7 +28,7 @@ This project includes a powerful script for generating a concise overview of you
 
 ## Usage
 
-1. Open the generate_codebase_context.js file in the scripts directory
+1. Open the codegen.js file in the scripts directory
 2. Modify the outputFile and srcDirectory variables to match your project structure:
 
    const outputFile = '/path/to/output/codebase_context.json';
