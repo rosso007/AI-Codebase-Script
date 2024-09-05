@@ -37,7 +37,7 @@ This project includes a powerful script for generating a concise overview of you
 3. Customize the ignoreDirs, ignoreFiles, and ignoreExtensions arrays if needed
 4. Run the script using Node.js:
 
-   node scripts/generate_codebase_context.js
+   node scripts/codegen.js
 
 5. The script will generate a JSON file at the specified outputFile location
 6. Use this JSON file to provide context to AI assistants when discussing your codebase
